@@ -23,6 +23,7 @@ $name = "Javid's POS System";
     Sign up!
     <br>
     Name:<input type="text" name="name">
+<!--    <button type="button">Submit</button>-->
     <input type="submit">
     <br>
     <br>
@@ -36,15 +37,15 @@ $name = "Javid's POS System";
   <option value="audi">@mail.com</option>
 </select>
     <input type="submit">
-    <button type="button">Submit</button>
+<!--    <button type="button">Submit</button>-->
     <br>
     <br>
     <?php echo $age ?>
 
 
     Age:<input type="number" name="age">
-    <button type="button">Submit</button>
-    <input type="submit">
+<!--    <button type="button">Submit</button>-->
+<input type="submit">
 </form>
 
     <footer>
