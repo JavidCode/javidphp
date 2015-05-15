@@ -24,7 +24,7 @@ $name = "Javid's POS System";
     <br>
     Name:<input type="text" name="name">
 <!--    <button type="button">Submit</button>-->
-    <input type="submit">
+<!--    <input type="submit">-->
     <br>
     <br>
 <form id= "user_input" action="submit.php" method="post">
@@ -36,7 +36,7 @@ $name = "Javid's POS System";
   <option value="mercedes">@outlook.com</option>
   <option value="audi">@mail.com</option>
 </select>
-    <input type="submit">
+<!--    <input type="submit">-->
 <!--    <button type="button">Submit</button>-->
     <br>
     <br>
