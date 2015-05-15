@@ -49,7 +49,10 @@ $name = "Javid's POS System";
 </form>
 
     <footer>
-    Copyright 2015 Javid Beykzadeh
+        <img class="cl" src="img/codelouisville-logo+banner.jpg"/>
+        <br>
+        Copyright 2015 Javid Beykzadeh
+
     </footer>
 </body>
 </html>
